@@ -12,7 +12,7 @@ This project aims to analyze Amazon product reviews and predict whether a given 
 - [Training the Model](#training-the-model)
 - [Evaluation](#evaluation)
 - [Results](#results)
-- 
+
 ## Introduction
 
 Sentiment analysis is a powerful tool for understanding customer opinions and feedback. This project utilizes an LSTM network to classify Amazon product reviews as positive or negative based on their content.
